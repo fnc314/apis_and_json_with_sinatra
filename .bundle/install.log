@@ -1,0 +1,19 @@
+# Logfile created on 2014-01-15 16:05:05 -0800 by logger.rb/44203
+I, [2014-01-15T16:05:05.369409 #1668]  INFO -- : 0:  backports (3.4.0) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/backports-3.4.0.gemspec
+I, [2014-01-15T16:05:05.369786 #1668]  INFO -- : 0:  coderay (1.1.0) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-01-15T16:05:05.370172 #1668]  INFO -- : 0:  ffi (1.9.3) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/ffi-1.9.3.gemspec
+I, [2014-01-15T16:05:05.370501 #1668]  INFO -- : 0:  mime-types (1.25.1) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-15T16:05:05.370816 #1668]  INFO -- : 0:  ethon (0.6.2) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/ethon-0.6.2.gemspec
+I, [2014-01-15T16:05:05.371129 #1668]  INFO -- : 0:  json (1.8.1) from /Users/FrancoNColaizzi/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-01-15T16:05:05.371423 #1668]  INFO -- : 0:  method_source (0.8.2) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-01-15T16:05:05.371731 #1668]  INFO -- : 0:  multi_json (1.8.2) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-15T16:05:05.372022 #1668]  INFO -- : 0:  slop (3.4.7) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-01-15T16:05:05.372354 #1668]  INFO -- : 0:  pry (0.9.12.4) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.4.gemspec
+I, [2014-01-15T16:05:05.372665 #1668]  INFO -- : 0:  rack (1.5.2) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-15T16:05:05.372995 #1668]  INFO -- : 0:  rack-protection (1.5.2) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-15T16:05:05.373356 #1668]  INFO -- : 0:  rack-test (0.6.2) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-15T16:05:05.373664 #1668]  INFO -- : 0:  tilt (1.4.1) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-15T16:05:05.373996 #1668]  INFO -- : 0:  sinatra (1.4.4) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-15T16:05:05.374282 #1668]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-01-15T16:05:05.374601 #1668]  INFO -- : 0:  typhoeus (0.6.7) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0/specifications/typhoeus-0.6.7.gemspec
+I, [2014-01-15T16:05:05.374906 #1668]  INFO -- : 0:  bundler (1.5.1) from /Users/FrancoNColaizzi/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
