@@ -18,11 +18,12 @@ end
 post '/result' do
   search_str = params[:movie]
   request = Typhoeus.get("www.omdbapi.com", :params => {:s => search_str})
-  movies = JSON.parse(request.body)["Search"].sort_by { |x| x["Year"]}.reverse
+  movies = JSON.parse(request.body)["Search"]
   html_str = "<html><head><title>Movie Search Results</title></head><body><h1>Movie Results</h1>\n<ul>"
   if movies.nil?
-    html_str += "NO MOVIE!!!!"
+    html_str += "<img src='http://gifs.gifbin.com/092009/reverse-1253886001_office-no.gif'></img><br><h6>NO POSTER</h6>"
   else
+  movies = JSON.parse(request.body)["Search"].sort_by { |x| x["Year"]}.reverse
   movies.each do |x|
 
     html_str += "<li><a href=/poster/#{x["imdbID"]}>#{x['Title']}, #{x['Year']}</a></li>"
