@@ -18,7 +18,7 @@ end
 post '/result' do
   search_str = params[:movie]
   request = Typhoeus.get("www.omdbapi.com", :params => {:s => search_str})
-  movies = JSON.parse(request.body)["Search"].sort_by { |x| x["Year"]}
+  movies = JSON.parse(request.body)["Search"].sort_by { |x| x["Year"]}.reverse
   # Make a request to the omdb api here!
 
   # Modify the html output so that a list of movies is provided.
