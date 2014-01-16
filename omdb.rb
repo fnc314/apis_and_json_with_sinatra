@@ -38,7 +38,7 @@ get '/poster/:imdb' do |imdb_id|
   id = JSON.parse(request.body)
   html_str = "<html><head><title>Movie Poster</title></head><body><h1>Movie Poster</h1>\n"
   html_str += "<h3>#{id["Title"]}, #{id["Year"]}</h3>"
-  html_str += "<object data=#{id["Poster"]}><img src='http://4.bp.blogspot.com/-XxZPs7WSmKo/UVW1O0B3UxI/AAAAAAAAAgg/Xy-6cXsr9gU/s1600/Middle-finger-emoticon.png'></img></object>"
+  html_str += "<object data=#{id["Poster"]}><img src='http://speckycdn.sdm.netdna-cdn.com/wp-content/uploads/2010/03/four-oh-four_25.jpg'></img></object>"
   html_str += '<br /><a href="/">New Search</a></body></html>'
 end
 
